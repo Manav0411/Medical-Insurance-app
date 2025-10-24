@@ -1,5 +1,7 @@
 # 💰 Medical Insurance Predictor
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render)](https://medical-insurance-predictor-659q.onrender.com)
+
 A modern machine learning web application built with **Python** and **Flask** to predict medical insurance charges based on personal health metrics and demographic information.
 
 📸 **Working Prototype**
