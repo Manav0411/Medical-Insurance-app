@@ -85,17 +85,6 @@ Insurance-app/
 └── README.md                     # Project documentation
 ```
 
-### 📋 Deployment Files Explained
-
-| File | Purpose | Required? |
-|------|---------|-----------|
-| **Procfile** | Tells hosting platform how to start the app (`gunicorn run:app`) | ✅ Yes |
-| **runtime.txt** | Specifies Python version (ensures consistency) | ⚠️ Recommended |
-| **render.yaml** | Auto-configures Render deployment settings | ⚠️ Optional (makes deployment easier) |
-| **DEPLOYMENT.md** | Step-by-step deployment instructions | 📖 Guide only |
-
----
-
 ## 💻 How to Run Locally
 
 ### ✅ Prerequisites
