@@ -4,7 +4,7 @@ A modern machine learning web application built with **Python** and **Flask** to
 
 📸 **Working Prototype**
 ---
-![Prototype](./static/screenshot.png)
+![Prototype](./app/static/screenshot.png)
 
 ---
 
